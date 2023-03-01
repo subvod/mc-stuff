@@ -1,6 +1,6 @@
-# mc-stuff
+# MINECRAFT.MD
 
-*Some notes on random stuff. All this is updated for Java Edition latest v1.19.3, but I've been playing on and off in the years since v1.5.2.*
+*Bunch of notes and what not for Minecraft. All this is updated for Java Edition latest v1.19.3, but I've been playing on and off in the years since v1.5.2.*
 
 # Index
 
@@ -800,8 +800,18 @@ Mod | Details
 :--- | ---
 [VanillaTweaks](https://vanillatweaks.net/) | *Changes and improvements to Vanilla Minecraft.*
 [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) | *Base modding toolkit since v1.4. Comes packaged as a Java installer, but it's streamlined and straighforward.*
+[WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) | In-game map editor.
 [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) | *Item and recipe viewing mod. Built from the ground up for stability and performance.*
-[Climb Ladders Fast](https://www.curseforge.com/minecraft/mc-mods/climb-ladders-fast) | *Very simple and efficient mod to climb ladders faster. Also works with vines.*
 [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | *Provides realistic sound attenuation, reverberation, and absorption through blocks.*
 [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) | *Client+server mod for Forge or Fabric and Quilt which maps your Minecraft world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen.*
 [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | *Efficient minimap and top-down view overworld maps with vanilla aesthetics.*
+[Climb Ladders Fast](https://www.curseforge.com/minecraft/mc-mods/climb-ladders-fast) | *Very simple and efficient mod to climb ladders faster. Also works with vines.*
+[Advanced Finders](https://www.curseforge.com/minecraft/mc-mods/advanced-finders) | *Craftable metal, mineral, and gem finders with durability.*
+
+*And here's some of my own goofing around:*
+
+Mod | Details
+:--- | ---
+[iDubbbz Cave Scream](https://mega.nz/file/PEtiUKwY#D8MPqtrqvrR7QNDW6u2tG23BBChS3J4UtyZoss1TsJ8) | Added echoing scream as `cave2.ogg` from [this YouTube video](https://youtu.be/uL5bcwKRqAM?t=332).
+[Enderman Skin](https://mega.nz/file/nJllyCLK#9c33LBdjoEBEJ5U0CqeHdBI-YNgmHzNsI1590FEN49Y) | Enderman skin for all players. 3px arms.
+[Kakashi Skin](https://mega.nz/file/eQ9SXIYB#dBaQeKlAjvQmtQ4Ll8WturVMkhoPLMblVkXYCsDSyGw) | Kakashi Hatake skin for all players. 4px arms.
